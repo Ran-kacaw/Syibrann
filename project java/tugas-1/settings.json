@@ -1,0 +1,11 @@
+{
+    "liveServer.settings.port": 5501,
+    "livePreview.defaultPreviewPath": "/dicoding-project/bookshelf-app-starter-project/index.html",
+    "java.debug.settings.onBuildFailureProceed": false,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.ignoreSelection": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "java": "cd $dir && cd .. && javac akademik/$fileName && java akademik.$fileNameWithoutExt"
+    }
+}
